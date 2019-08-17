@@ -1,0 +1,10 @@
+.navbar{
+    background-color: lightgrey;
+}
+.navbar-nav{
+    background-color: lightcoral;
+    margin: 0 0;
+}
+section{
+    background-color: lightcyan;
+}
